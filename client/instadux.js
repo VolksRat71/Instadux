@@ -7,9 +7,9 @@ import {
     browserHistory
 } from 'react-router'
 import css from './styles/style.styl';
-import Main from './components/Main'
-import Single from './components/Single'
-import PhotoGrid from './components/PhotoGrid'
+import Main from './components/Main';
+import Single from './components/Single';
+import PhotoGrid from './components/PhotoGrid';
 
 const router = (
     <Router history={browserHistory}>
