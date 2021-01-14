@@ -1,6 +1,11 @@
 import React, { Component } from 'react'
 
 const Comments = React.createClass({
+    handleSubmit(e) {
+        e.preventDefault();
+        const { props: { params: { postId } }, refs: { author, comment }, props } = this;
+        console.log(this.props)
+    },
     render() {
         const { postComments } = this.props
         return (
@@ -19,9 +24,13 @@ const Comments = React.createClass({
                         </div>
                     )
                 }
-                <form href="comment form" className="comment-form">
-                    <input type="text" href="author" placeholder="author" />
-                    <input type="text" href="comment" placeholder="comment" />
+                <form
+                    href="comment form"
+                    className="comment-form"
+                    onSubmit={this.handleSubmit}
+                >
+                    <input type="text" ref="author" placeholder="author" />
+                    <input type="text" ref="comment" placeholder="comment" />
                     <input type="submit" />
                 </form>
             </div>
