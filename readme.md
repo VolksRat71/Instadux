@@ -1,13 +1,47 @@
-# Learn Redux
+<div align="center">
+    <img src="./client/image/Instadux.png">
+</div>
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+<h1 align="center">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+        Currently Under Construction
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+</h1>
 
-## Running
+<div align="center">
+    <img src="./client/image/Instadux.png">
+</div>
 
-First `npm install` to grab all the necessary dependencies. 
+<h1 align="center">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+        Currently Under Construction
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+</h1>
 
-Then run `npm start` and open <localhost:7770> in your browser.
+<div align="center">
+    <img src="./client/image/Instadux.png">
+</div>
 
-## Production Build
+<h1 align="center">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+        Currently Under Construction
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+</h1>
 
-Run `npm build` to create a distro folder and a bundle.js file.
+<div align="center">
+    <img src="./client/image/Instadux.png">
+</div>
+
+<h1 align="center">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+        Currently Under Construction
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
+</h1>
