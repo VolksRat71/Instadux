@@ -7,20 +7,16 @@ const comments = {
   ],
   "BAcyDyQwcXX": [
     {
-      "text": "Wes. WE should have lunch.",
-      "user": "jdaveknox"
+      "text": "That is really cool! Good Job",
+      "user": "tNix"
     },
     {
-      "text": "#adults",
-      "user": "jdaveknox"
+      "text": "#javascript",
+      "user": "tNix"
     },
     {
-      "text": "@jdaveknox yes!",
-      "user": "wesbos"
-    },
-    {
-      "text": "😍 love Hamilton!",
-      "user": "willowtreemegs"
+      "text": "@tNix Heck Yeah! Thank you :)",
+      "user": "volksrat71"
     }
   ],
   "BAPIPRjQce9": [

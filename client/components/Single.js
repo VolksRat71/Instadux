@@ -5,8 +5,13 @@ import Comments from './Comments'
 
 const Single = React.createClass({
     render() {
-        const i = this.props.posts.findIndex(post => post.code === this.props.params.postId);
-        const post = this.props.posts[i]
+        const {
+            params: { postId },
+            posts,
+            comments
+        } = this.props
+        const i = posts.findIndex(post => post.code === postId);
+        const post = posts[i]
         return (
             <div className="single-photo">
                 <Photo
@@ -14,7 +19,7 @@ const Single = React.createClass({
                     post={post}
                     {...this.props}
                 />
-                <Comments />
+                <Comments postComments={comments[postId]} />
             </div>
         )
     }
