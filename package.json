@@ -17,6 +17,8 @@
   "author": "Wes Bos",
   "license": "MIT",
   "dependencies": {
+    "@sentry/react": "^5.30.0",
+    "@sentry/tracing": "^5.30.0",
     "babel-core": "^6.7.7",
     "babel-eslint": "^6.0.4",
     "babel-loader": "^6.2.4",
