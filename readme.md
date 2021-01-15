@@ -1,47 +1,25 @@
 <div align="center">
-    <img src="./client/image/Instadux.png">
+    <img width="70%" src="./client/image/Instadux.png">
 </div>
 
-<h1 align="center">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-        Currently Under Construction
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-</h1>
+<br>
 
 <div align="center">
-    <img src="./client/image/Instadux.png">
+    <h1>Run through video goes here.</h1>
 </div>
 
-<h1 align="center">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-        Currently Under Construction
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-</h1>
+Welcome to Instadux, a simple photo application (Instagram Clone).  This application was the product of a course I took on **Redux**, **React**, **Webpack**, **React Router**, **ES6**, & **NPM**
 
-<div align="center">
-    <img src="./client/image/Instadux.png">
-</div>
+## <p align="center"> Hello, I am Nate. </p>
 
-<h1 align="center">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-        Currently Under Construction
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-</h1>
+<p align="center">
+ <img width="20%" src="https://avatars1.githubusercontent.com/u/47840525?s=460&u=c5536c61b6b26eb0c4cf5b10a985de3df410c281&v=4"/>
+</p>
 
-<div align="center">
-    <img src="./client/image/Instadux.png">
-</div>
+<p align="center">
+I live in Austin,TX and I am looking for a good job.
+</p>
 
-<h1 align="center">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-        Currently Under Construction
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-    <img height="35px" src="https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif?1497901371">
-</h1>
+<p align="center">
+| <a href="tel:5035047581">(503)504-7581</a> || <a href="mailto:nathanieljryan1994@gmail.com">nathanieljryan1994@gmail.com</a> || <a href="https://www.linkedin.com/in/nathanieljryan/">LinkedIn</a> || <a href="https://nathanryan.tech/">Portfolio</a> || <a href="https://nathanryan.tech/document/NathanielRyanResume.pdf">Resume</a> |
+</p>
