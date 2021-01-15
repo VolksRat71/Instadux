@@ -1,16 +1,24 @@
 import React, { Component } from 'react'
 
 const Comments = React.createClass({
+    // Getting fancy with that ES6... for fun.
     handleSubmit(e) {
         e.preventDefault();
+
         const {
-            props: { params: { postId } },
-            refs: { author, comment },
-            props: { addComment } } = this;
+            props: { addComment, params: { postId } },
+            refs: { author, comment }
+        } = this;
+
         addComment(postId, author.value, comment.value);
+        [author.value, comment.value] = ["", ""]
     },
     render() {
-        const { postComments } = this.props
+        const {
+            postComments,
+            removeComment,
+            params: { postId }
+        } = this.props
         return (
             <div className="comments">
                 {postComments ?
@@ -18,7 +26,10 @@ const Comments = React.createClass({
                         <div key={i} className="comment">
                             <strong>{comment.user}</strong>
                             {comment.text}
-                            <button>&times;</button>
+                            <button
+                                className="remove-comment"
+                                onClick={removeComment.bind(null, postId, i)}
+                            >&times;</button>
 
                         </div>
                     )) : (
@@ -28,7 +39,7 @@ const Comments = React.createClass({
                     )
                 }
                 <form
-                    href="comment form"
+                    href="commentForm"
                     className="comment-form"
                     onSubmit={this.handleSubmit}
                 >
