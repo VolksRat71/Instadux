@@ -1,5 +1,3 @@
-import { withScope } from "@sentry/react";
-
 function posts(state = [], action) {
     switch (action.type) {
         case 'INCREMENT_LIKES':
