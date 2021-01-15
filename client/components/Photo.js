@@ -3,6 +3,11 @@ import { Link } from 'react-router';
 import CSSTransitionGroup from 'react-addons-css-transition-group';
 
 const Photo = React.createClass({
+    onClick() {
+        const { i, increment } = this.props
+        console.log(`ONCLICK: Calling increment in index on ${i} photo`);
+        increment(i)
+    },
     render() {
         const { post, i, comments } = this.props;
         return (
@@ -27,7 +32,7 @@ const Photo = React.createClass({
                             <p>{post.caption}</p>
                         </figcaption>
                         <div className="control-buttons">
-                            <button className="likes">&hearts; {post.likes}</button>
+                            <button onClick={this.onClick} className="likes">&hearts; {post.likes}</button>
                             <Link className="button" to={`/view/${post.code}`}>
                                 <span className="comment-count">
                                     <span className="speech-bubble"></span>

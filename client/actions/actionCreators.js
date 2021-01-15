@@ -1,7 +1,8 @@
-export function increment(index) {
+export function increment(i) {
+    console.log(`ACTION: Action creator function \'increment\' called, calling reducer \'INCREMENT_LIKES\'. Passing on photo index: ${i}`)
     return {
         type: 'INCREMENT_LIKES',
-        index
+        i
     }
 }
 
