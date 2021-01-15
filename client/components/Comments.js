@@ -3,8 +3,11 @@ import React, { Component } from 'react'
 const Comments = React.createClass({
     handleSubmit(e) {
         e.preventDefault();
-        const { props: { params: { postId } }, refs: { author, comment }, props } = this;
-        console.log(this.props)
+        const {
+            props: { params: { postId } },
+            refs: { author, comment },
+            props: { addComment } } = this;
+        addComment(postId, author.value, comment.value);
     },
     render() {
         const { postComments } = this.props
