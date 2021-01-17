@@ -1,15 +1,18 @@
 <div align="center">
     <a href="https://instadux.herokuapp.com/">
-    <img width="70%" src="./client/image/Instadux.png">
+        <img width="70%" src="./client/image/Instadux.png">
     </a>
 </div>
 
 <br>
 
 <div align="center">
-    <img width="70%" src="./client/image/InstaduxMockup.png">
-
+    <a href="https://instadux.herokuapp.com/">
+        <img width="70%" src="./client/image/InstaduxMockup.png">
+    </a>
 </div>
+
+<br>
 
 Welcome to Instadux, a simple photo application (Instagram Clone).  This application was the product of a course I took on **Redux**, **React**, **Webpack**, **React Router**, **ES6**, & **NPM**. It was a not an in-depth project by any means. But I figured why not host so you can check it out.
 
