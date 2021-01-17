@@ -1,14 +1,17 @@
 <div align="center">
+    <a href="https://instadux.herokuapp.com/">
     <img width="70%" src="./client/image/Instadux.png">
+    </a>
 </div>
 
 <br>
 
 <div align="center">
-    <h1>Run through video goes here.</h1>
+    <img width="70%" src="./client/image/InstaduxMockup.png">
+
 </div>
 
-Welcome to Instadux, a simple photo application (Instagram Clone).  This application was the product of a course I took on **Redux**, **React**, **Webpack**, **React Router**, **ES6**, & **NPM**
+Welcome to Instadux, a simple photo application (Instagram Clone).  This application was the product of a course I took on **Redux**, **React**, **Webpack**, **React Router**, **ES6**, & **NPM**. It was a not an in-depth project by any means. But I figured why not host so you can check it out.
 
 ## <p align="center"> Hello, I am Nate. </p>
 
